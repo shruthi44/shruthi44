@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently doing my internship with Salt as Junior Full Stack Developer
 - 📫 How to reach me gurumurthi.shruhti@gmail.com
-- 
+
 Things I code with 
 Java, SpringBoot, Docker, HTML, CSS, JavaScript, github, Amazon Web Services, Azure Cloud Technology, React. 
 <!---
