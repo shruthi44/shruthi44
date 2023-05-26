@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shruthi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, HTML, CSS
+- 🌱 I’m currently doing my internship with Salt as Junior Full Stack Developer
 - 📫 How to reach me gurumurthi.shruhti@gmail.com
 
 <!---
